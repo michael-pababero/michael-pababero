@@ -1,7 +1,7 @@
 <hr>
 
 ## Hi there! 👋  I'm Michael Pababero, a Data Analyst. 
-Welcome to my Github profile. Through this platform, I will showcase my projects and contributions to the world of data analysis. 
+Welcome to my Github profile! Through this platform, I will showcase my projects and contributions to the world of data analysis. 
 
 <hr>
 
