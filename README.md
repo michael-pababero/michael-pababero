@@ -7,7 +7,7 @@ Welcome to my Github profile. Through this platform, I will showcase my projects
 
 ### Data Analysis Tools
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQl Server"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="excel"> <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQl Server"> <img src="https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="excel"> <img src="https://img.shields.io/badge/Power_BI-E8B927?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R&logoColor=white" alt="R"> 
 
 
 
