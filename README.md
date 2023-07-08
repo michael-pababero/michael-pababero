@@ -12,7 +12,7 @@ Welcome to my Github profile! Through this platform, I will showcase my projects
 <hr> 
 
 ### Current Project
-<a href=""><img src="https://img.shields.io/badge/Cyclistic_Capstone_Project-3C8C9B?style=for-the-badge&logo=google&logoColor=white" alt="cyclistic"></a>
+<a href="https://github.com/mike-pabs/cyclistic-gdac-capstone-project"><img src="https://img.shields.io/badge/Cyclistic_Capstone_Project-3C8C9B?style=for-the-badge&logo=google&logoColor=white" alt="cyclistic"></a>
 
 
 
